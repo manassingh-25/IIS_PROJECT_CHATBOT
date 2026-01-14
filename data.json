@@ -1,0 +1,114 @@
+{
+  "Type":{
+    "Staff Member":["Professor","Researcher","Service Provider","Administrative Officer"],
+    "Student":["BTech","MTech","PHD","Alumni"],
+    "Visitor":["Parent","Guest Speaker","Job Recruiting Company","Official Representative"]
+  },
+  "Appointment":{
+    "Jainendra Shukla":{
+      "Venue":{
+        "Building":"R&D Block",
+        "Room":"A-410"
+        },
+      "Slots":[]
+    },
+    "Ojaswa Sharma":{
+      "Venue":{
+        "Building":"R&D Block",
+        "Room":"A-511"
+        },
+      "Slots":[]
+    },
+    "Gautam Shroff":{
+      "Venue":{
+        "Building":"R&D Block",
+        "Room":"A-510"
+        },
+      "Slots":[]
+    },
+    "Sneha Chaubey":{
+      "Venue":{
+        "Building":"R&D Block",
+        "Room":"B-308"
+        },
+      "Slots":[]
+    },
+    "Sanjit Kaul":{
+      "Venue":{
+        "Building":"R&D Block",
+        "Room":"B-411"
+        },
+      "Slots":[]
+    },
+    "Sujay Deb":{
+      "Venue":{
+        "Building":"R&D Block",
+        "Room":"A-607"
+        },
+      "Slots":[]
+    },
+    "Sayan Basu Roy":{
+      "Venue":{
+        "Building":"R&D Block",
+        "Room":"A-603"
+        },
+      "Slots":[]
+    },
+    "Chanekar Prasad Vilas":{
+      "Venue":{
+        "Building":"R&D Block",
+        "Room":"B-610"
+        },
+      "Slots":[]
+    },
+    "Anoop Ratn":{
+      "Venue":{
+        "Building":"Academic Block",
+        "Room":"A-402"
+        },
+      "Slots":[]
+    },
+    "Jaspreet Kaur":{
+      "Venue":{
+        "Building":"R&D Block",
+        "Room":"A-307"
+        },
+      "Slots":[]
+    },
+    "Kiriti Kanjilal":{
+      "Venue":{
+        "Building":"R&D Block",
+        "Room":"B-208"
+        },
+      "Slots":[]
+    },
+    "Paro Mishra":{
+      "Venue":{
+        "Building":"R&D Block",
+        "Room":"B-209"
+        },
+      "Slots":[]
+    },
+    "Praveen Priyadarshi":{
+      "Venue":{
+        "Building":"R&D Block",
+        "Room":"A-203"
+        },
+      "Slots":[]
+    },
+    "Gayatri Nair":{
+      "Venue":{
+        "Building":"R&D Block",
+        "Room":"B-212"
+        },
+      "Slots":[]
+    },
+    "Soibam Haripriya":{
+      "Venue":{
+        "Building":"R&D Block",
+        "Room":"A-204"
+        },
+      "Slots":[]
+    }
+  }
+}
